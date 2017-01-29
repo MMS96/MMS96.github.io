@@ -1,0 +1,8 @@
+Origin: Moh'd Test
+Label: Moh'd test
+Suite: stable
+Version: 1.0
+Codename: ios
+Architecture: iphones-arm
+Componets: main
+Description: Test Repo Description
